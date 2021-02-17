@@ -1,2 +1,2 @@
 # Private
-Private Repository
+Private Repository for git commands demonstration
